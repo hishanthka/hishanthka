@@ -72,9 +72,14 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Activity & Stats
 
+### 📊 GitHub Activity & Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hishanthka&show_icons=true&theme=tokyonight&count_private=true&border_radius=8" alt="Hishanth's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hishanthka&layout=compact&theme=tokyonight&border_radius=8&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hishanthka&theme=tokyo-night&hide_border=true" width="100%" alt="Hishanth's Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hishanthka&layout=compact&theme=tokyonight&border_radius=8&hide=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
