@@ -15,47 +15,13 @@ Here are some ideas to get you started:
 # Hi there, I'm Hishant Kumar Agrawal 👋
 
 ### 🚀 About Me
-- 🎓 B. Tech CSE @ Government Engineering College, Raipur
-- 🔭 Full Stack Developer and AI enthusiast.
-- 💬 Ask me about **HTML, CSS, JavaScript, and React**.
-- 📫 Reach me @ `hishantkumaragrawal2004@gmail.com`
-- 🌱 I’m still learning and growing.
-- 👯 Looking forward to collab to work on amazing projects.
-
----
-
-### 🛠️ Languages & Tools
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hishanthka&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishanthka&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-
-# Hi there, I'm Hishanth 👋
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/YOUR_TWITTER_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-> **Full-Stack & AI Engineer** | Building high-performance web applications, cloud infrastructure, and intelligent AI models.
-
----
-
-### 🚀 About Me
+- 🎓 **B. Tech CSE @ Government Engineering College, Raipur**
 - 🔭 **Focus:** Full-stack architecture, web responsiveness, and AI/LLM integrations.
 - ⚡ **Problem Solving:** Core algorithms, data structures, and system design in C++.
-- 🌱 **Learning:** Scalable AI infrastructure, vector databases, and MLOps workflows.
-- 💬 **Ask me about:** React, Next.js, Python, Node.js, and Docker deployment pipelines.
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js, Python, Node.js, and Docker deployment pipelines.**.
+- 📫 Reach me @ `hishantkumaragrawal2004@gmail.com`
+- 🌱  **Learning:** Scalable AI infrastructure, vector databases, and MLOps workflows.
+- 👯 Looking forward to collab to work on amazing projects.
 
 ---
 
@@ -94,18 +60,26 @@ Here are some ideas to get you started:
 
 ---
 
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/YOUR_TWITTER_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+> **Full-Stack & AI Engineer** | Building high-performance web applications, cloud infrastructure, and intelligent AI models.
+
+---
+
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hishanthka&show_icons=true&theme=tokyonight&count_private=true&border_radius=8" alt="Hishanth's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishanthka&layout=compact&theme=tokyonight&border_radius=8&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hishanthka&show_icons=true&theme=tokyonight&count_private=true&border_radius=8" alt="Hishanth's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hishanthka&layout=compact&theme=tokyonight&border_radius=8&hide=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hishanthka&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 <p align="center">
   <i>Designed & maintained by <a href="https://github.com/hishanthka">hishanthka</a></i>
