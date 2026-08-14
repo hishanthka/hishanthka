@@ -43,10 +43,11 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **AI SaaS Platform** | Intelligent full-stack dashboard powered by LLMs and vector embeddings. | `Next.js` `Python` `Node.js` `AWS` | [Repo](https://github.com/hishanthka) |
-| **Secure Data Wiping Tool** | Low-level utility for permanent and unrecoverable data sanitation. | `C++` `System APIs` | [Repo](https://github.com/hishanthka) |
-| **Interactive Media Gallery** | Responsive multi-media container featuring grid layout & dynamic video controls. | `Next.js` `CSS Grid` `Vercel` | [Repo](https://github.com/hishanthka) |
-
+| **Rupy (secure banking AI)** | AI integrated banking with anomaly detection | `Next.js` `Python` `Node.js` `AWS` `Colab` | [Repo](https://github.com/hishanthka/Rupy) |
+| **Secure Data Wiping Tool (FormatX)** | Low-level utility for permanent and unrecoverable data sanitation. | `C++` `System APIs` | [Repo](https://github.com/hishanthka/FormatX) |
+| **Load Forecaster** | Forecasts energy usage on households for efficient power generation. | `Next.js` `Colab` `Python` | [Repo](https://github.com/hishanthka/LoadForecaster)|
+| **SD Management System** | Digitization of excel sheet maintenance for CSPGCL Korba. | `Next.js` `Docker` `React.js` | [Repo](https://github.com/hishanthka/SD_mgmt_htps_vt26) |
+| **IMDb Movie Recommender** | Scans your IMDb ratings and suggest movies. | `JS` `Html`  | [Repo](https://github.com/hishanthka/MovieRECm) |
 ---
 
 <p align="left">
