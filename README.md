@@ -38,35 +38,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishanthka&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<!-- Overall Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hishanthka)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hishanthka)
-
-<!-- Extra Pins / Repo Card -->
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hishanthka&repo=hishanthka)
-
-
-
-<!-- Dark / Popular Themes -->
-![Stats](https://github-readme-stats.vercel.app/api?username=hishanthka&theme=tokyonight)
-![Stats](https://github-readme-stats.vercel.app/api?username=hishanthka&theme=dracula)
-![Stats](https://github-readme-stats.vercel.app/api?username=hishanthka&theme=catppuccin)
-![Stats](https://github-readme-stats.vercel.app/api?username=hishanthka&theme=onegraph)
-
-<!-- Light Themes -->
-![Stats](https://github-readme-stats.vercel.app/api?username=hishanthka&theme=default)
-![Stats](https://github-readme-stats.vercel.app/api?username=hishanthka&theme=flat)
-
-
-![Custom Stats](https://github-readme-stats.vercel.app/api?username=hishanthka&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a&border_color=1e293b&show_icons=true)
-
-
-![Gradient Stats](https://github-readme-stats.vercel.app/api?username=hishanthka&bg_color=30,000000,130e52&title_color=fff&text_color=fff&icon_color=fff)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hishanthka&show_icons=true&theme=tokyonight&count_private=true&border_radius=8" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishanthka&layout=compact&theme=tokyonight&border_radius=8&hide=html,css" alt="Top Languages" />
-</p>
